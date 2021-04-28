@@ -10,6 +10,10 @@ Website view :
 ![alt text](https://github.com/saikrishnadas/Netflix-Clone-React/blob/main/Screenshot-webview.png)
 
 
-Responsive mobile web view :
+Mobile web view :
 
 ![alt text](https://github.com/saikrishnadas/Netflix-Clone-React/blob/main/Screenshot-mobileview.png)
+
+
+Responsive Animation :
+![Alt Text](https://github.com/saikrishnadas/Netflix-Clone-React/blob/main/screenshot.gif)
