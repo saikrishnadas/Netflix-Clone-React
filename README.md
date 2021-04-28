@@ -6,4 +6,3 @@ This Netflix Clone is created with React ⚛️ and not hard-coded instead the i
 
 Website view :
 
-
