@@ -20,5 +20,6 @@ Mobile web view :
 Responsive Animation :
 ![Alt Text](https://github.com/saikrishnadas/Netflix-Clone-React/blob/main/screenshot.gif)
 
-Click a movie to play trailer :
 
+Click a movie to play trailer :
+![Alt Text](https://github.com/saikrishnadas/Netflix-Clone-React/blob/main/screenshot-trailer.gif)
