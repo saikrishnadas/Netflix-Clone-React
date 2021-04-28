@@ -24,10 +24,3 @@
   width: 80px;
   object-fit: contain;
 }
-
-.nav_avatar {
-  position: fixed;
-  right: 20px;
-  width: 30px;
-  object-fit: contain;
-}

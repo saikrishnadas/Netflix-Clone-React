@@ -25,7 +25,6 @@ function Banner() {
 
   const background_path =
     "https://image.tmdb.org/t/p/original" + movie.backdrop_path;
-  console.log(background_path);
 
   return (
     <header
