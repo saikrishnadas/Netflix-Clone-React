@@ -7,19 +7,19 @@ The app is responsive and dynamic. So, that each time you refresh it shows new i
 
 TRY IT 🌟 🌟 🌟 Clicking on any movie would play its trailer.🌟 🌟 🌟 🌟 
 
-⚡ ## WEBSITE VIEW : ⚡
+## WEBSITE VIEW : ⚡
 
 ![website screenshot](https://github.com/saikrishnadas/Netflix-Clone-React/blob/main/Screenshot-webview.png)
 
 
-⚡ ## MOBILE WEB VIEW : ⚡
+## MOBILE WEB VIEW : ⚡
 
 ![website mobile view](https://github.com/saikrishnadas/Netflix-Clone-React/blob/main/Screenshot-mobileview.png)
 
 
-⚡ ## RESPONSIVE ANIMATION : ⚡
+## RESPONSIVE ANIMATION : ⚡
 ![website animation](https://github.com/saikrishnadas/Netflix-Clone-React/blob/main/screenshot.gif)
 
 
-⚡ ## Click a movie to play its TRAILER : ⚡
+## Click a movie to play its TRAILER : ⚡
 ![Website responsiveness](https://github.com/saikrishnadas/Netflix-Clone-React/blob/main/screenshot-trailer.gif)
